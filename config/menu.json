@@ -1,0 +1,45 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Blog",
+      "url": "/blogs"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Company",
+      "menu": [
+        {
+          "text": "About Us",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Blog",
+      "menu": [
+        {
+          "text": "Recent Work",
+          "url": "/blogs"
+        }
+      ]
+    },
+    {
+      "name": "Support",
+      "menu": [
+        {
+          "text": "Contact Us",
+          "url": "/contact"
+        }
+      ]
+    }
+  ]
+}
