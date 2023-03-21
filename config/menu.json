@@ -5,7 +5,7 @@
       "url": "/"
     },
     {
-      "name": "Blog",
+      "name": "Work",
       "url": "/blogs"
     },
     {
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "name": "Blog",
+      "name": "Work",
       "menu": [
         {
           "text": "Recent Work",
