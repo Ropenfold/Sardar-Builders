@@ -52,7 +52,7 @@ const Contact = ({ data }) => {
         {markdownify(title, "h1", "text-center font-normal")}
         <div className="section row pb-0">
           <div className="col-12 md:col-6 lg:col-7">
-            {!submitted ? 
+            {/* {!submitted ? 
             <form
               className="contact-form"
             >
@@ -99,7 +99,7 @@ const Contact = ({ data }) => {
                 Send Now
               </button>
             </form>
-: <><h2 className="text-center font-normal">Thanks for your message!</h2><button className=" btn btn-primary center" onClick={() => resetForm()}>Send Again</button></> }
+: <><h2 className="text-center font-normal">Thanks for your message!</h2><button className=" btn btn-primary center" onClick={() => resetForm()}>Send Again</button></> } */}
           </div>
           <div className="content col-12 md:col-6 lg:col-5">
             {markdownify(info.title, "h4")}
